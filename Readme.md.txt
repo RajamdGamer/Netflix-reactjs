@@ -1,0 +1,1 @@
+I thought making netflix with react is tough before but haven't thought It would be this easy after all anyways happy coding.
